@@ -1,0 +1,33 @@
+#largerPuff{
+    overflow: hidden;
+    .caption{
+        margin: auto;
+        max-width: 300px;
+        padding: 50px 0px;
+        h5{
+            margin-bottom: 25px;
+            color: #A0B5AB;
+        }
+        p{
+            color: #343936;
+        }
+        p.higher-porosity{
+            margin: 20px 0px;
+            max-width: 220px;
+            position: relative;
+            span i{
+                position: absolute;
+                top: 48px;
+                left: -45px;
+                font-size: 12px;
+            }
+
+        }
+        p.larger-30{
+            border-top: 2px solid #343936;
+            padding-top: 15px;
+        }
+    }
+
+      
+}

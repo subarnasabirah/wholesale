@@ -1,0 +1,20 @@
+// %btnCss{
+//     text-decoration: none;
+//     color: $brand-color-dark;
+//     display: inline-block;
+//     font-size: 17px;
+//     font-weight: 700;
+//     &::before{
+//         position: absolute;
+//         content: "";
+//         width: 100%;
+//         height: 2px;
+//         background-color: $btn-btm;
+//         left: 0;
+//         bottom: -2px;
+//         @include transition (.5s);
+
+//     }
+
+// }
+

@@ -471,7 +471,7 @@ i.fa.fa-star { margin-right: -3px; }
 
 #largerPuff .caption { margin: auto; max-width: 300px; padding: 50px 0px; }
 
-#largerPuff .caption h5 { margin-bottom: 25px; color: #A0B5AB; }
+#largerPuff .caption h4 { margin-bottom: 25px; color: #A0B5AB; }
 
 #largerPuff .caption p { color: #343936; }
 
@@ -486,6 +486,8 @@ i.fa.fa-star { margin-right: -3px; }
 #untaintedTaste .mh-h-500 { min-height: 500px; }
 
 #untaintedTaste .caption { color: #ffffff; z-index: 999; position: relative; max-width: 360px; margin-left: 12%; }
+
+#untaintedTaste .caption h3 { font-size: 20px; margin-bottom: 20px; }
 
 #untaintedTaste .caption h4 { margin: 10px 0; line-height: 20px; font-size: 14px; }
 
